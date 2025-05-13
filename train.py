@@ -18,7 +18,7 @@ y = data.target.astype(float)  # Преобразуем целевые данн�
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Настраиваем MLflow
-mlflow.set_experiment("Wine_Quality_Regression")
+mlflow.set_experiment("mlops_hw_2")
 
 # Параметры модели (изменяем для экспериментов)
 n_estimators = 200
