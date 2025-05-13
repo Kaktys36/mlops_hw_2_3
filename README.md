@@ -1,5 +1,5 @@
 # MLOps Homework 2. Parts 2 and 3
-*Акбулатов Нурислам*
+*Николаев Александр*
 ## Отчет о проведении экспериментов с использованием MLflow и ClearML
 
 ### Введение
@@ -27,7 +27,7 @@
   - n\_estimators = 200
   - max\_depth = 10
 - **Результат**:
-  - RMSE: 0.5666517273659811
+  - RMSE: 0.57
 - **Визуализация**:
 
 ![image](https://github.com/user-attachments/assets/7379458a-69a0-44ce-8e3d-4670e999bbc4)
