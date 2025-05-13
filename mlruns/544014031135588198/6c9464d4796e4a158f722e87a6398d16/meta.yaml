@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ivan%20Govnov/Documents/mlops_hw_2_3/mlruns/544014031135588198/6c9464d4796e4a158f722e87a6398d16/artifacts
+end_time: 1747164108880
+entry_point_name: ''
+experiment_id: '544014031135588198'
+lifecycle_stage: active
+run_id: 6c9464d4796e4a158f722e87a6398d16
+run_name: peaceful-swan-229
+run_uuid: 6c9464d4796e4a158f722e87a6398d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747164103859
+status: 3
+tags: []
+user_id: Kaktys36
