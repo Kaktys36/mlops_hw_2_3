@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Настраиваем ClearML Task
-task = Task.init(project_name="Wine Quality Regression", task_name="pipeline")
+task = Task.init(project_name="mlops_hw_2", task_name="pipeline")
 
 # Загружаем датасет
 data = fetch_openml(name="wine-quality-red", version=1, as_frame=True)
