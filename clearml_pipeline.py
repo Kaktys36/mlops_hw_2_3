@@ -28,7 +28,7 @@ results = []
 
 for exp in experiments:
     # Настраиваем подзадачу
-    sub_task = Task.create(project_name="Wine Quality Regression", task_name=f"Experiment n_estimators={exp['n_estimators']} max_depth={exp['max_depth']}")
+    sub_task = Task.create(project_name="mlops_hw_2", task_name=f"Experiment n_estimators={exp['n_estimators']} max_depth={exp['max_depth']}")
     sub_task.connect(exp)  # Логируем параметры
     
     # Создаем и обучаем модель

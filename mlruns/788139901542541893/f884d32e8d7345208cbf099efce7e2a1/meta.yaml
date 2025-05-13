@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ivan%20Govnov/Documents/mlops_hw_2_3/mlruns/788139901542541893/f884d32e8d7345208cbf099efce7e2a1/artifacts
+end_time: 1747163585811
+entry_point_name: ''
+experiment_id: '788139901542541893'
+lifecycle_stage: active
+run_id: f884d32e8d7345208cbf099efce7e2a1
+run_name: thoughtful-flea-966
+run_uuid: f884d32e8d7345208cbf099efce7e2a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747163580883
+status: 3
+tags: []
+user_id: Kaktys36

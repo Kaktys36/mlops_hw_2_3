@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Ivan%20Govnov/Documents/mlops_hw_2_3/mlruns/788139901542541893
+creation_time: 1747163543978
+experiment_id: '788139901542541893'
+last_update_time: 1747163543978
+lifecycle_stage: active
+name: Wine_Quality_Regression
