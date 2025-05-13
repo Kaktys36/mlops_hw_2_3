@@ -30,7 +30,7 @@ with mlflow.start_run():
     mlflow.log_param("max_depth", max_depth)
 
     # Обучаем модель
-    model = RandomForestRegressor(n_estimators=n_estimators, max_depth=max_depth, random_state=42)
+    model = RandomForestRegressor(n_estimators=n_estimators, max_depth=max_depth, random_state=45)
     model.fit(X_train, y_train)
 
     # Оцениваем модель
